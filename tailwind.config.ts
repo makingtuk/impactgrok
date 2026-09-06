@@ -1,4 +1,5 @@
-{ Config } from "tailwindcss";
+ts
+import type { Config } from "tailwindcss";
 
 const config: Config = {
   content: [
@@ -14,5 +15,6 @@ const config: Config = {
 
 export default config;
 
-D
+T
+
 
