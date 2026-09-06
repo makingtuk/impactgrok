@@ -18,3 +18,6 @@
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
   "exclude": ["node_modules"]
 }
+
+Then look at the top right and click Commit changes...Reply pasted or committed.
+
